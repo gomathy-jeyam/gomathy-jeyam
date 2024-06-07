@@ -1,4 +1,4 @@
-##👋 Hey there! I'm Gomathy Jeyam, 
+## 👋 Hey there! I'm Gomathy Jeyam, 
 
 A seasoned software developer specializing in Java with over 3 years of hands-on experience.
 
