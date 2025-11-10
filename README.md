@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Gomathy Jeyam
 
-💻 A seasoned software developer specializing in Java with over 3 years of hands-on experience.
+💻 A seasoned software developer specializing in Java with over 6 years of hands-on experience.
 
 🚀 I thrive on building robust applications and solving complex problems using Java, constantly honing my skills in the ever-evolving tech landscape.
 
